@@ -30,12 +30,13 @@ The model is evaluated using:
 
 ## Results:
 Classification Report:
+
               precision    recall  f1-score   support
 
            0     0.9852    0.9858    0.9855  22284202
            1     0.9604    0.9588    0.9596   7993430
 
     accuracy                         0.9787  30277632
-   macro avg     0.9728    0.9723    0.9726  30277632
-weighted avg     0.9787    0.9787    0.9787  30277632
+    macro avg     0.9728    0.9723    0.9726  30277632
+    weighted avg     0.9787    0.9787    0.9787  30277632
 
