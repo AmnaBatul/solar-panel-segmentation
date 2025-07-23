@@ -40,3 +40,8 @@ Classification Report:
     macro avg     0.9728    0.9723    0.9726  30277632
     weighted avg  0.9787    0.9787    0.9787  30277632
 
+
+### Contact
+If you have any questions, feedback, or collaboration ideas, feel free to reach out:
+* 📧 Email: amnabatul2@gmail.com 
+* 🌐 GitHub: [AmnaBatul](https://github.com/AmnaBatul)
